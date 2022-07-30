@@ -1,0 +1,4 @@
+name: BungeeExporter
+version: '${project.version}'
+main: com.lss233.bungeeexporter.BungeeExporter
+description: An exporter for BungeeCord
